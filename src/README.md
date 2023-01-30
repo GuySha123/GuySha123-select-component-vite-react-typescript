@@ -1,3 +1,3 @@
-#Select Component
+# Select Component
 
-A simple select component made with: Vite, React and TypeScript
+ A simple select component made with: Vite, React and TypeScript
